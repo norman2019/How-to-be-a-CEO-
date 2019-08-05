@@ -1,4 +1,8 @@
 PPM, NQC and concern is the main KPI for quality in our company.
-PPM is defective parts per million. Which give us an overview of the quality in company
-NQC is defect cost including scrap, rework cost and third-part inspection... This figure is 
-Concern is related the repution and satisfication of customer on our quality.
+PPM是不良每百万件，按照6Sigma理论，每百万件的不良不得超过3.4件，而我们公司的目标是34000件。
+NQC是不良成本，主要包括报废，返工以及第三方全检或者其他有关质量的费用。
+这个指标并非看绝对值，如按照月为单位计算，每个月的总产出是有浮动的，按照一定的比例，自然产出高的月不良成本就高，反之亦然，因此相对值更有参考价值。
+那么应该参照哪个指标呢？销售额是一个很好的选择。
+同时这个指标也反映出内部质量管控的能力！
+客户投诉反映公司在管理流出不良的能力，同时也影响公司的信誉和客户满意度
+
